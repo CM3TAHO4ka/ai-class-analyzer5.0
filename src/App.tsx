@@ -17,7 +17,7 @@ function SetupScreen({ onStart }: { onStart: (a: AccuracyLevel) => void }) {
         {/* Header */}
         <div className="text-center mb-8">
           <div className="text-6xl mb-4 animate-float">🏫</div>
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">ИИ-Переводчик Эмоций</h1>
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">Пульс Класса AI</h1>
           <p className="text-gray-500 text-lg">Анализ настроения класса в реальном времени</p>
         </div>
 
